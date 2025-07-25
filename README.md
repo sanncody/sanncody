@@ -26,7 +26,7 @@
 
 ### 📌 About Me
 
-- 💻 I focus on **Node.js**, **Express**, **MongoDB**, and building real-time, production-ready backend systems.
+- 💻 I focus on **Node.js**, **Express**, **MongoDB**, and try to build real-time, production-ready backend systems.
 - 🔗 Portfolio: [My Projects](https://sanncody.github.io/Portfolio-Website/)
 - 📫 Reach me at: **sandeepwadhawan2001@gmail.com**
 
